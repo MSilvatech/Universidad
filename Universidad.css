@@ -1,0 +1,26 @@
+#Encabezado{
+    text-align: center;
+}
+#ImagenLogo{
+    display: flex;
+    align-items: flex-start;
+}
+#Index{
+    text-align: center;
+    display: flex;
+}
+#Index a{
+    margin-top: 20px;
+}
+
+.menu{
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.menu a{
+    /* margin-left: 50px; */
+    margin-left: 10px;
+
+}
