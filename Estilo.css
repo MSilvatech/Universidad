@@ -20,7 +20,19 @@
 }
 
 .menu a{
-    /* margin-left: 50px; */
+    
     margin-left: 10px;
 
+}
+.opiniones{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+.opiniones div {
+    margin-left: 20px;
+    border: black 1px solid ;
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
